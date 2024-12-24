@@ -54,7 +54,7 @@
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="tenx" />
 
   <!-- System repos -->
-  <project path="system/core" name="system_core" remote="tenx" />
+  <!--<project path="system/core" name="system_core" remote="tenx" />-->
   <project path="system/netd" name="system_netd" remote="tenx" />
 
   <!-- Sepolicy repos -->
